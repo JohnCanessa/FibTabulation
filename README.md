@@ -12,7 +12,7 @@ In this case we will use the tabulation approach.
 
 If interested I invite you to read the associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/07/fib-tabulation/
 
 Keep in mind that one of the best ways to learn is to read and experiemnt.
 
